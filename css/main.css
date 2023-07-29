@@ -69,3 +69,7 @@
   .bd-mode-toggle {
     z-index: 1500;
   }
+
+  a {
+    text-decoration: none;
+  }
